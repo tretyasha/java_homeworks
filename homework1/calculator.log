@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-11T14:12:55.171356Z</date>
+  <millis>1686492775171</millis>
+  <nanos>356000</nanos>
+  <sequence>0</sequence>
+  <logger>CalculatorLog</logger>
+  <level>INFO</level>
+  <class>dz2.zadanie6</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Выражение: 2/ 2</message>
+</record>
+<record>
+  <date>2023-06-11T14:12:55.204015Z</date>
+  <millis>1686492775204</millis>
+  <nanos>15000</nanos>
+  <sequence>1</sequence>
+  <logger>CalculatorLog</logger>
+  <level>INFO</level>
+  <class>dz2.zadanie6</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат: 1.0</message>
+</record>
+</log>
