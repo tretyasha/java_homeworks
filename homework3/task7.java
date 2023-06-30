@@ -1,4 +1,4 @@
-package homework2;
+package homework3;
 
 // Пусть дан произвольный список целых чисел.
 // 1) Нужно удалить из него чётные числа
@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class zadanie3 {
+public class zadanie4 {
     public static void main(String[] args) {
         List<Integer> arr = new ArrayList<>(Arrays.asList(8, 2, 3, 6, 9, 5));
         List<Integer> arrCopy = new ArrayList<>(arr);
